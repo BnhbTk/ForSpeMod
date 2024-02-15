@@ -90,7 +90,9 @@ public class Node {
     }
 
     public static void main(String...args){
-        test3();
+        test1();
+        //or test2();
+        //or test3();
     }
 }
 
