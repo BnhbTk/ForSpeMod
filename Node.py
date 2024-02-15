@@ -1,3 +1,4 @@
+# This mandatory for Python verion <=3.8
 from __future__ import annotations
 
 class Node:
